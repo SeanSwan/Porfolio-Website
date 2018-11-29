@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanSwan/Portfolio-Website.git"
+  },
+  "author": "Sean London Swan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanSwan/Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/SeanSwan/Portfolio-Website#readme",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
