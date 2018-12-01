@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SeanSwan/Portfolio-Website#readme",
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.10.0"
   }
 }
